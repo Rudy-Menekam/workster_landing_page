@@ -1,6 +1,6 @@
 # workster Hero Section
 
-A simple implementation/redesign of the Workster Hero sect in flutter
+A simple implementation/redesign of the Workster Hero section in flutter
 
 ## UI
 
