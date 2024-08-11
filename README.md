@@ -1,16 +1,11 @@
-# workster_landing_page
+# workster Hero Section
 
-A new Flutter project.
+A simple implementation/redesign of the Workster Hero sect in flutter
 
-## Getting Started
+## UI
 
-This project is a starting point for a Flutter application.
+![Hero](./assets/images/MacBook.png)
 
-A few resources to get you started if this is your first Flutter project:
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Special recognition goes to the original [Workster](https://workster.co/) website behind the design
